@@ -53,27 +53,47 @@ a {
 
 .our-mission {
     display: flex;
-    width: 100%;
-    height: auto;
-    justify-content: center;
-    padding-top: 70px;
-}
-
-.container {
-    display: flex;
     width: 1200px;
     height: 700px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 70px;
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*1q2gmhr*_ga*MTEwODQ0ODE2Mi4xNjUyMzQ3MTA1*_ga_3LRZM6TM9L*MTY3NTA1NzQ3My4yMTQuMS4xNjc1MDU3OTk0LjAuMC4w);
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+
+.mission-container {
+    width: 100%;
 }
 
 h2 {
     display: flex;
-    flex-direction: row;
-    flex-grow: 1;
+    background-color: black;
+    justify-content: center;
+    line-height: 60px;
 }
 
 h4 {
     display: flex;
-    flex-direction: row;
+    background-color: black;
+    justify-content: center;
+    line-height: 60px;
     flex-wrap: wrap;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+}
+
+.featured-tea {
+    display: flex;
+    width: 1000px;
+    justify-content: center;
+    padding-top: 70px;
+    padding-bottom: 10px;
 }
