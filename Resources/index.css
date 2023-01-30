@@ -19,7 +19,7 @@ body {
     height: 70px;
     align-items: center;
     border-bottom: 1px solid seashell;
-    
+    background-color: black;
 }
 
 .logo {
@@ -55,6 +55,6 @@ a {
     width: 100%;
     height: auto;
     justify-content: center;
-    
+    padding-top: 70px;
 }
 
