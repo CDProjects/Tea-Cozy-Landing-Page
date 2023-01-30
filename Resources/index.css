@@ -33,5 +33,15 @@ nav {
     display: flex;
     width: 100%;
     justify-content: flex-end;
-    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.mission, .featured {
+    text-decoration: underline;
+    padding-right: 25px;
+}
+
+.locations {
+    text-decoration: underline;
+    padding-right: 10px;
 }
