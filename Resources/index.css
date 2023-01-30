@@ -93,12 +93,8 @@ h4 {
 .featured-tea {
     display: flex;
     width: 1000px;
+    height: 700px;
     justify-content: center;
     padding-top: 70px;
     padding-bottom: 10px;
-}
-
-.featured-container {
-    display: flex;
-    width: 1000px;
 }
