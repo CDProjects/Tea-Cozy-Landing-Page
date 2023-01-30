@@ -86,16 +86,12 @@ h4 {
     flex-wrap: wrap;
 }
 
-.container2 {
-    display: flex;
-    justify-content: center;
-}
 
 .featured-tea {
     display: flex;
-    width: 1000px;
-    height: 700px;
+    width: 100%;
     justify-content: center;
     padding-top: 70px;
     padding-bottom: 10px;
 }
+
