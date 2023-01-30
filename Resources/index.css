@@ -45,3 +45,7 @@ nav {
     text-decoration: underline;
     padding-right: 10px;
 }
+
+a {
+    color: seashell;
+}
