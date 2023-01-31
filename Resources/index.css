@@ -68,27 +68,19 @@ a {
     flex-wrap: wrap;
 }
 
-.mission-container, .location-container, .heading-container{
+.mission-container, .location-container, .heading-container, .contactinfo-container {
     width: 100%;
     flex-wrap: wrap;
 }
 
-h2 {
+h2, h4, h5 {
     display: flex;
     background-color: black;
     justify-content: center;
     line-height: 60px;
     align-items: center;
-}
-
-h4 {
-    display: flex;
-    background-color: black;
-    justify-content: center;
-    line-height: 60px;
     flex-wrap: wrap;
 }
-
 
 .featured-tea {
     display: flex;
@@ -166,4 +158,10 @@ h3 {
     margin-top: 30px;
     display: flex;
     justify-content: center;
+}
+
+.contactinfo {
+    display: flex;
+    width: 1200px;
+    height: 200px;
 }
