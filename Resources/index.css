@@ -54,6 +54,7 @@ a {
 .container {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .our-mission {
@@ -64,10 +65,12 @@ a {
     align-items: center;
     padding-top: 70px;
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*1q2gmhr*_ga*MTEwODQ0ODE2Mi4xNjUyMzQ3MTA1*_ga_3LRZM6TM9L*MTY3NTA1NzQ3My4yMTQuMS4xNjc1MDU3OTk0LjAuMC4w);
+    flex-wrap: wrap;
 }
 
 .mission-container, .location-container, .heading-container{
     width: 100%;
+    flex-wrap: wrap;
 }
 
 h2 {
@@ -121,6 +124,7 @@ h4 {
 .container4 {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .location {
@@ -142,6 +146,7 @@ h4 {
     margin-top: 15px;
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .location1 {
