@@ -104,6 +104,8 @@ h4 {
 
 .container3 {
     display: flex;
+    width: 666px;
+    justify-content: space-around;
 }
 
 .image-container {
