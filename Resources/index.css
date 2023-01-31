@@ -66,7 +66,7 @@ a {
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*1q2gmhr*_ga*MTEwODQ0ODE2Mi4xNjUyMzQ3MTA1*_ga_3LRZM6TM9L*MTY3NTA1NzQ3My4yMTQuMS4xNjc1MDU3OTk0LjAuMC4w);
 }
 
-.mission-container, .location-container {
+.mission-container, .location-container, .heading-container{
     width: 100%;
 }
 
@@ -155,5 +155,5 @@ h4 {
 }
 
 .heading-container {
-
+    display: block;
 }
